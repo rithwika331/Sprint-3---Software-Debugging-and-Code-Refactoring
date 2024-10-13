@@ -1,0 +1,24 @@
+button {
+    width: 100%;
+    padding: 15px;
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: #007bff; /* Blue for register */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 10px; /* Space between Register and Login */
+}
+
+/*hover on the button after fixed */
+button:hover {
+    background-color: #004999;
+}
+
